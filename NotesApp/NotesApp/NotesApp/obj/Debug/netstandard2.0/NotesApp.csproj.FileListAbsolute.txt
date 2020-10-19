@@ -1,0 +1,14 @@
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csprojAssemblyReference.cache
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\ref\NotesApp.dll
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\ref\NotesApp.dll
+D:\Development\Projects\NotesXamarinForms\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
