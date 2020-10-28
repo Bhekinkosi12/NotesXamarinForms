@@ -1,11 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "Spc3do8L7JyRL3cNiun6gD+GlqMWnEzhQ8vljyFdGAc0z2F63tnlVbFH92EN0xv2Ru/j/8nYdWg78e6f7RrckQ==",
+  "dgSpecHash": "JZpEzDhaTUn6D4ZSBzRKVWywfVsfJaEJ90HTGkWXgRAqtSvn2rqGS/pJ3vMO9k+E9CDqarBs3GjRBUef6/qrbA==",
   "success": true,
   "projectFilePath": "D:\\Development\\Projects\\NotesXamarinForms\\NotesApp\\NotesApp\\NotesApp.iOS\\NotesApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n NotesApp.iOS -> NotesApp -> Xamarin.Forms (>= 4.8.0.1560) \r\n NotesApp.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
