@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "rQSDVe7M9hPNUTWQ73gVuUH6xjMTVWfEMtD6cbPuWprYd2z3Tx/9q5obvVH+i1BgHA0Dqo9tYj8Mbr4ZMvU1Fw==",
+  "dgSpecHash": "FDc6IiriefJknvGQD7UCNHKfBv3ZY+Za2H75YE155M3oCAmwGUOd0pFPM6l3ZbtYan9gJxKYM2Nh80QD+JYqEQ==",
   "success": true,
   "projectFilePath": "D:\\Development\\Projects\\NotesXamarinForms\\NotesApp\\NotesApp\\NotesApp\\NotesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512"
   ],
   "logs": []

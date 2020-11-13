@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Android", "NotesAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.iOS", "NotesApp\NotesApp.iOS\NotesApp.iOS.csproj", "{7EDF074A-4703-4ED8-89E0-F7FE831786F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp", "NotesApp\NotesApp\NotesApp.csproj", "{0EFB91DE-F65A-45C6-9372-C94865DFFEC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotesApp", "NotesApp\NotesApp\NotesApp.csproj", "{0EFB91DE-F65A-45C6-9372-C94865DFFEC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
