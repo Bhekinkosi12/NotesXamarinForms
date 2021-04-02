@@ -8,6 +8,7 @@ namespace Notes.Data
     public class NoteDatabase
     {
         readonly SQLiteAsyncConnection _database;
+        
 
         public NoteDatabase(string dbPath)
         {
